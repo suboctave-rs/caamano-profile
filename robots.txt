@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://caamano-profile.vercel.app/sitemap.xml
